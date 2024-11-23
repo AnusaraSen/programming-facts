@@ -1,2 +1,2 @@
-# programming-facts
-Random facts about programming
+# programming-Fun facts
+Random Fun facts about programming
